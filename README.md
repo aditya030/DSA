@@ -1,5 +1,6 @@
 # DSA
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+,+Nice+To+Meet+You)](https://git.io/typing-svg)
+https://camo.githubusercontent.com/d40240fc1640cb54adf97abeac156e720be7b6b3b4b093cbed72b08a869101da/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4268617679614268616c6c613237
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya030)](https://github.com/anuraghazra/github-readme-stats)
