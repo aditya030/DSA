@@ -1,4 +1,5 @@
 # DSA
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya030)](https://github.com/anuraghazra/github-readme-stats)
 
 HERE I AM SHARING DIFFERENT TYPES OF QUESTIONS FROM BASIC DSA TO ADVANCE DSA.WHICH WILL FURTHER HELP YOU TO PRACTICE MORE AND MORE QUESTIONS.
