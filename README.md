@@ -1,5 +1,5 @@
 # DSA
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+,+Nice+To+Meet+You)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+,+Nice+To+Meet+You+Here)](https://git.io/typing-svg)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya030)](https://github.com/anuraghazra/github-readme-stats)
