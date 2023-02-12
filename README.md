@@ -1,6 +1,6 @@
 # DSA
 HERE I AM SHARING DIFFERENT TYPES OF QUESTIONS FROM BASIC DSA TO ADVANCE DSA.WHICH WILL FURTHER HELP YOU TO PRACTICE MORE AND MORE QUESTIONS.
-Will Also be sharing handwritten notes-can mail me on-sinhaaditya188@gmail.com
+Will Also be sharing handwritten notes-can mail me sinhaaditya188@gmail.com
 
 ![image](https://user-images.githubusercontent.com/61179961/218269065-66f442f5-ec78-4ec5-b5b3-acaab2b4fe2d.png)
 
