@@ -6,13 +6,12 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya030)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya030&" alt="aditya030" /></p>
 
 HERE I AM SHARING DIFFERENT TYPES OF QUESTIONS FROM BASIC DSA TO ADVANCE DSA.WHICH WILL FURTHER HELP YOU TO PRACTICE MORE AND MORE QUESTIONS.
  Will Also be sharing handwritten notes-can mail me sinhaaditya188@gmail.com
 
 ![image](https://user-images.githubusercontent.com/61179961/218269065-66f442f5-ec78-4ec5-b5b3-acaab2b4fe2d.png)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya030&" alt="aditya030" /></p>
 
 
 A data structure is a named location that can be used to store and organize data. And, an algorithm is a collection of steps to solve a particular problem. Learning data structures and algorithms allow us to write efficient and optimized computer programs.
